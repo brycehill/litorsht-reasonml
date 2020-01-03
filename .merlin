@@ -1,0 +1,15 @@
+####{BSB GENERATED: NO EDIT
+B lib/bs
+FLG -open ReactHooksTemplate
+FLG -ppx '/Users/brycehill/.config/yarn/global/node_modules/bs-platform/lib/bsppx.exe -bs-jsx 3'
+S /Users/brycehill/workspace/litorsht-2/node_modules/bs-platform/lib/ocaml
+B /Users/brycehill/workspace/litorsht-2/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S /Users/brycehill/workspace/litorsht-2/node_modules/@dck/bs-firebase/lib/ocaml
+B /Users/brycehill/workspace/litorsht-2/node_modules/@dck/bs-firebase/lib/ocaml
+S /Users/brycehill/workspace/litorsht-2/node_modules/reason-react/lib/ocaml
+B /Users/brycehill/workspace/litorsht-2/node_modules/reason-react/lib/ocaml
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}

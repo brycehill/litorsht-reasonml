@@ -1,0 +1,1 @@
+{ "dirs" : [ "src" ] , "pkgs" : [ [ "bs-platform" , "/Users/brycehill/workspace/litorsht-2/node_modules/bs-platform" ] , [ "@dck/bs-firebase" , "/Users/brycehill/workspace/litorsht-2/node_modules/@dck/bs-firebase" ] , [ "reason-react" , "/Users/brycehill/workspace/litorsht-2/node_modules/reason-react" ] ] , "generated" : [] }
